@@ -19,6 +19,9 @@ import tensorflow.python.platform
 import numpy
 import tensorflow as tf
 
+
+
+
 NUM_CHANNELS = 3  # RGB images
 PIXEL_DEPTH = 255
 NUM_LABELS = 2
